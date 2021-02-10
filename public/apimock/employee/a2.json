@@ -1,0 +1,24 @@
+{
+    "data": {
+        "id": "a2",
+        "employee_type": "2",
+        "name": "外注さんA",
+        "phonetic": "がいちゅうさんえー",
+        "cellphone_number": "080xxxxxxxx",
+        "nearest_station": "新大阪駅",
+        "facebook_address": "hoge@facebook.com",
+        "twitter_address": "hoge@twitter.com",
+        "line_address": "hoge@line.co.jp",
+        "remarks": "test\ntest\ntest\n",
+        "editor": "担当",
+        "register_date": "2016-03-14",
+        "update_date": "2016-03-14",
+        "partner_info": {
+            "company_name": "PE Bank",
+            "commercial_flow": "1",
+            "age": "40",
+            "age_input_date": "2018-12-01",
+            "good_language": "Any"
+        }
+    }
+}

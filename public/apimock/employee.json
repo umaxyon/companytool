@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "id": "a1",
+            "employee_type": "0",
+            "name": "社員A",
+            "phonetic": "しゃいんえー",
+            "cellphone_number": "080xxxxxxxx",
+            "nearest_station": "新大阪駅",
+            "facebook_address": "hoge@facebook.com",
+            "twitter_address": "hoge@twitter.com",
+            "line_address": "hoge@line.co.jp",
+            "remarks": "test\ntest\ntest\n",
+            "editor": "担当",
+            "register_date": "2016-03-14",
+            "update_date": "2016-03-14",
+            "staff_info": {
+                "mail_address": "daisuke.takachi@svc.co.jp",
+                "birthday": "1982-10-01",
+                "joined_route": "リクルート",
+                "hire_date": "2016-03-14",
+                "joining_conditions": "XXXX",
+                "joining_administration_fee": 150000,
+                "joining_redemption_ratio": 20,
+                "retirement_date": "",
+                "retirement_reason": ""
+            },
+            "partner_info": {}
+        },
+        {
+            "id": "a2",
+            "employee_type": "2",
+            "name": "外注さんA",
+            "phonetic": "がいちゅうさんえー",
+            "cellphone_number": "080xxxxxxxx",
+            "nearest_station": "新大阪駅",
+            "facebook_address": "",
+            "twitter_address": "",
+            "line_address": "",
+            "remarks": "test\ntest\ntest\n",
+            "editor": "担当",
+            "register_date": "2016-03-14",
+            "update_date": "2016-03-14",
+            "partner_info": {
+                "employment_status": "0",
+                "company_name": "",
+                "commercial_flow": "",
+                "age": "40",
+                "age_input_date": "",
+                "good_language": ""
+            }
+        },
+        {
+            "id": "a3",
+            "employee_type": "0",
+            "name": "社員B",
+            "phonetic": "しゃいんびー",
+            "cellphone_number": "080xxxxxxxx",
+            "nearest_station": "新大阪駅",
+            "facebook_address": "",
+            "twitter_address": "",
+            "line_address": "",
+            "remarks": "test\ntest\ntest\n",
+            "editor": "担当",
+            "register_date": "2016-03-14",
+            "update_date": "2016-03-14",
+            "staff_info": {
+                "mail_address": "akihiro.okubo@svc.co.jp",
+                "birthday": "1980-08-01"
+            },
+            "partner_info": {}
+        },
+        {
+            "id": "a4",
+            "employee_type": "4",
+            "name": "外注さんB",
+            "phonetic": "がいちゅうさんびー",
+            "cellphone_number": "090xxxxxxxx",
+            "nearest_station": "阪急京都線 下新庄駅",
+            "facebook_address": "",
+            "twitter_address": "",
+            "line_address": "",
+            "remarks": "test\ntest\ntest\n",
+            "editor": "担当",
+            "register_date": "2016-03-14",
+            "update_date": "2016-03-14",
+            "staff_info": {},
+            "partner_info": {
+                "company_name": "個人事業主",
+                "commercial_flow": "0",
+                "age": "35",
+                "age_input_date": "",
+                "good_language": "Java, Kotlin"
+            }
+        },
+        {
+            "id": "a5",
+            "employee_type": "3",
+            "name": "山田　太郎",
+            "phonetic": "やまだたろう",
+            "cellphone_number": "090xxxxxxxx",
+            "nearest_station": "新大阪駅",
+            "facebook_address": "",
+            "twitter_address": "",
+            "line_address": "",
+            "remarks": "test\ntest\ntest\n",
+            "staff_info": {},
+            "partner_info": {
+                "company_name": "",
+                "commercial_flow": "",
+                "age": "35",
+                "age_input_date": "",
+                "good_language": ""
+            }
+        }
+    ]
+}

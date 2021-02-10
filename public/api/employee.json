@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "a1",
+            "fullName": "社員A",
+            "privatePhoneNumber": "080xxxxxxxx",
+            "age": 36,
+            "employmentStatus": "Staff"
+        },
+        {
+            "id": "a2",
+            "fullName": "外注さんA",
+            "privatePhoneNumber": "090xxxxxxxx",
+            "age": 40,
+            "employmentStatus": "BpStaff"
+        },
+        {
+            "id": "a3",
+            "fullName": "社員B",
+            "privatePhoneNumber": "080xxxxxxxx",
+            "age": 38,
+            "employmentStatus": "Staff"
+        },
+        {
+            "id": "a4",
+            "fullName": "外注さんB",
+            "privatePhoneNumber": "090xxxxxxxx",
+            "age": 35,
+            "employmentStatus": "Freelance"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "data": {
+        "id": "a1",
+        "employee_type": "0",
+        "name": "社員A",
+        "phonetic": "しゃいんえー",
+        "cellphone_number": "080xxxxxxxx",
+        "nearest_station": "阪急曽根",
+        "facebook_address": "hoge@facebook.com",
+        "twitter_address": "hoge@twitter.com",
+        "line_address": "hoge@line.co.jp",
+        "remarks": "test\ntest\ntest\n",
+        "editor": "担当",
+        "register_date": "2016-03-14",
+        "update_date": "2016-03-14",
+        "staff_info": {
+            "mail_address": "daisuke.takachi@svc.co.jp",
+            "birthday": "1982-10-01",
+            "joined_route": "リクルート",
+            "hire_date": "2016-03-14",
+            "joining_conditions": "XXXX",
+            "joining_administration_fee": 150000,
+            "joining_redemption_ratio": 20,
+            "retirement_date": "",
+            "retirement_reason": ""
+        },
+        "partner_info": {}
+    }
+}

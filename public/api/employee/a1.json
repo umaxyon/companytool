@@ -1,0 +1,7 @@
+{
+    id: "a1",
+    fullName: "社員A",
+    privatePhoneNumber: "080xxxxxxxx",
+    age: 36,
+    employmentStatus: "Staff"
+},
